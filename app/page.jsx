@@ -508,8 +508,11 @@ function GrandFinale() {
       <div className="letter-postmark">APRÈS<br/>LE MATCH</div>
       <p className="eyebrow">ULTIME PIÈCE À CONVICTION</p>
       <h3>Noux,</h3>
-      <p>Ce soir, Paris aura été une table, une galerie, une scène de crime, quelques verres, beaucoup de détours — et une journée entière choisie pour toi.</p>
+      <p>Ce soir, Paris aura été une table, une galerie, une scène de crime, quelques verres, beaucoup de détours, beaucoup de rires et de sourires, et ces étoiles dans tes yeux. Une journée entière choisie pour toi.</p>
       <p>Majorque nous a laissé une lune. Paris nous laissera cette enquête. Je ne connais pas encore la prochaine ville, la prochaine mer ou la prochaine page, mais je sais avec qui je veux les découvrir.</p>
+      <p>Cette personne, c’est toi. Toi, la femme que j’aime et avec qui je veux partager notre vie, les bons moments comme ceux qui le seront moins. Notre vie, si tu le veux, sera magnifique et belle, simplement parce qu’elle sera la nôtre.</p>
+      <p>Merci pour cette superbe journée à tes côtés. Elle restera l’une des plus belles que j’aie vécues, et je suis persuadé qu’il y en aura encore beaucoup d’autres.</p>
+      <p>Je ne te promets pas que chaque page sera toujours facile. Je te promets seulement de vouloir continuer à les écrire avec toi.</p>
       <p>Le dossier peut se refermer. Notre histoire, elle, reste grande ouverte.</p>
       <MemoryPolaroid />
       <div className="next-chapter"><span>PROCHAIN CHAPITRE</span><b>Destination inconnue</b><small>Équipage confirmé : Noux + son complice</small></div>
