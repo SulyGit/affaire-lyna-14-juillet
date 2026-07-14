@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#244a43"/>
+  <circle cx="1060" cy="80" r="210" fill="none" stroke="#bd8a40" stroke-opacity=".18" stroke-width="2"/>
+  <circle cx="1060" cy="80" r="165" fill="none" stroke="#bd8a40" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M0 540L1200 465V630H0Z" fill="#182c2b"/>
+  <text x="90" y="105" fill="#d8bc83" font-family="Arial,sans-serif" font-size="22" letter-spacing="5">DOSSIER CONFIDENTIEL · PARIS · 14/07</text>
+  <text x="90" y="235" fill="#fff6e4" font-family="Georgia,serif" font-size="78">L’Affaire du</text>
+  <text x="90" y="328" fill="#efc5bc" font-family="Georgia,serif" font-size="88" font-style="italic">Double Anniversaire</text>
+  <rect x="90" y="392" width="470" height="82" fill="#8d3046" transform="rotate(-2 90 392)"/>
+  <text x="125" y="450" fill="#fff6e4" font-family="Georgia,serif" font-size="42" font-style="italic">Pour Lyna</text>
+  <circle cx="1010" cy="390" r="88" fill="#8d3046" stroke="#d8bc83" stroke-width="7"/>
+  <circle cx="1010" cy="390" r="68" fill="none" stroke="#efc5bc" stroke-opacity=".5" stroke-width="2"/>
+  <text x="1010" y="418" text-anchor="middle" fill="#f3d5a0" font-family="Georgia,serif" font-size="75" font-style="italic">L</text>
+  <text x="90" y="565" fill="#d8bc83" font-family="Arial,sans-serif" font-size="19" letter-spacing="4">SIX INDICES · DEUX SUSPECTS · UNE SEULE JOURNÉE</text>
+</svg>
