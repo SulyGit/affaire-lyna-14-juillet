@@ -4,6 +4,12 @@ export const metadata = {
   metadataBase: new URL("https://sulygit.github.io/affaire-lyna-14-juillet/"),
   title: "L’Affaire du Double Anniversaire — Pour Lyna",
   description: "Une enquête parisienne strictement confidentielle. Six indices, deux anniversaires, une seule journée.",
+  manifest: "/affaire-lyna-14-juillet/manifest.webmanifest",
+  appleWebApp: {
+    capable: true,
+    title: "Dossier Lyna",
+    statusBarStyle: "black-translucent"
+  },
   openGraph: {
     title: "Lyna, une enquête t’attend…",
     description: "Dossier confidentiel · Paris · 14 juillet",
